@@ -1,0 +1,57 @@
+Robot is not yet placed on a valid place on table
+Robot is not yet placed on a valid place on table
+Robot is not yet placed on a valid place on table
+Robot is not yet placed on a valid place on table
+0 , 0 ,EAST
+X variable is set outside of boundaries
+0 , 0 ,EAST
+0 , 0 ,SOUTH
+Y variable is set outside of boundaries
+0 , 0 ,SOUTH
+0 , 0 ,WEST
+Move confirmed => New location X coordinate: 1
+                  New location Y coordinate: 0
+Move confirmed => New location X coordinate: 2
+                  New location Y coordinate: 0
+Move confirmed => New location X coordinate: 3
+                  New location Y coordinate: 0
+Move confirmed => New location X coordinate: 4
+                  New location Y coordinate: 0
+X variable is set outside of boundaries
+4 , 0 ,WEST
+4 , 0 ,NORTH
+Move confirmed => New location X coordinate: 4
+                  New location Y coordinate: 1
+Move confirmed => New location X coordinate: 4
+                  New location Y coordinate: 2
+Move confirmed => New location X coordinate: 4
+                  New location Y coordinate: 3
+Move confirmed => New location X coordinate: 4
+                  New location Y coordinate: 4
+Y variable is set outside of boundaries
+4 , 4 ,EAST
+Move confirmed => New location X coordinate: 3
+                  New location Y coordinate: 4
+Move confirmed => New location X coordinate: 2
+                  New location Y coordinate: 4
+Move confirmed => New location X coordinate: 1
+                  New location Y coordinate: 4
+Move confirmed => New location X coordinate: 0
+                  New location Y coordinate: 4
+X variable is set outside of boundaries
+0 , 4 ,NORTH
+0 , 4 ,WEST
+0 , 4 ,SOUTH
+Move confirmed => New location X coordinate: 0
+                  New location Y coordinate: 3
+Move confirmed => New location X coordinate: 0
+                  New location Y coordinate: 2
+Move confirmed => New location X coordinate: 0
+                  New location Y coordinate: 1
+Move confirmed => New location X coordinate: 0
+                  New location Y coordinate: 0
+Y variable is set outside of boundaries
+0 , 0 ,EAST
+X variable is set outside of boundaries
+0 , 0 ,EAST
+4 , 1 ,SOUTH
